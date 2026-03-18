@@ -1,4 +1,25 @@
-## Hola a todos 👋
+# ¡Hola! Soy Pablo Fuentes Soto (PabloDesk)👋
+💻🐀 [3D Character and Prop Modeler | 3D Animator | Entusiasta en Programación]
+
+
+
+---
+
+## 🚀 Sobre mí
+
+- 🔭 Actualmente estoy aprendiendo **Java y Javascript**.
+- 🌱 Estoy transaccionando de carrera para ser ingeniero en informática.
+- 💬 Pregúntame sobre: Animación y Modelado 3D.
+- ⚡ Dato curioso: Me encanta aprender cosas nuevas.
+
+---
+
+## 📫 Contactos
+Puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablodesk)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodesk1024@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pablofsdesk/)
 
 
 <!--
