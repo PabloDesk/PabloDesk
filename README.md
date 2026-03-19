@@ -13,7 +13,7 @@
 ### 💻 Programación
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎮 Game Engines & IA
+### 👾 Game Engines & IA
 ![Unity 6](https://img.shields.io/badge/Unity_6-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) &nbsp; ![Unreal Engine 4](https://img.shields.io/badge/Unreal_Engine_4-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) &nbsp; ![FluxAI](https://img.shields.io/badge/FluxAI-purple?style=for-the-badge&logo=rocket) &nbsp; ![ComfyAI](https://img.shields.io/badge/ComfyAI-blue?style=for-the-badge&logo=probot)
 
 ### 🎨 Diseño, Modelado y Renderizado
