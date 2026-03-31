@@ -10,6 +10,9 @@
 ### 🐧 Sistemas & DevOps
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) &nbsp; ![WSL](https://img.shields.io/badge/WSL-%230078D4.svg?style=for-the-badge&logo=linux&logoColor=white) &nbsp; ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23273B55.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 
+### 📄 Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 💻 Programación
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
