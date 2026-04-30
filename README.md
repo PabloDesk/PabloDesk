@@ -1,10 +1,6 @@
 # ¡Hola! Soy Pablo Fuentes Soto (PabloDesk)👋
 💻🐀 [ 3D Character and Prop Modeler | 3D Animator | Entusiasta en Programación ]
 
-
-
----
-
 ## ⚙️ Software & Workflow
 
 ### 🐧 Sistemas & DevOps
