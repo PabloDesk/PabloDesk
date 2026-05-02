@@ -1,13 +1,8 @@
 <div align="center">
 
-# 🎨 ¡Hola! Soy Pablo Fuentes Soto (PabloDesk) 👋
-
-### **Digital Animator ➔ Future Software Engineer**
-**Fusionando la creatividad artística con la precisión del código.**
+# ¡Hola! Soy Pablo Fuentes Soto (PabloDesk) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=Visual+Artist+%2B+Developer;3D+Character+Artist;Tech+Artist+Enthusiast)](https://git.io/typing-svg)
-
----
 
 ### 🚀 Sobre mí
 
