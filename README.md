@@ -10,7 +10,7 @@
   <a href="https://pablodesk.github.io/CV_PabloDesk/"> 🗽 English Version </a>  -->
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=Visual+Artist+%2B+Developer;3D+Generalist;Full+Stack+Dev+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=3D+Generalist;Visual+Artist+%2B+Developer;Full+Stack+Dev+Enthusiast)](https://git.io/typing-svg)
 
 ### 🚀 Sobre mí
 
