@@ -9,10 +9,10 @@
 Soy un **Animador Digital** con visión artística y comunicacional en plena transición hacia la **Ingeniería en Informática**.  
 Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que generen un impacto real y positivo.
 
-### ✨ ¿En qué ando ahora?
+### 👀 ¿En qué ando ahora?
 
 🔭 Actualmente dando mis primeros pasos en programación y lógica de software en Generation Chile. <br>
-🌱 **Estudiando** para ser Ingeniero en Informática. <br>
+🌱 Estudiando para ser Ingeniero en Informática. <br>
 💬 **Pregúntame sobre**: **Animación, Modelado 3D y Game Design.** <br>
 ⚡ **Dato curioso**: Creo que el código es otra forma de arte, solo que con una sintaxis más estricta. <br>
 
@@ -35,10 +35,9 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 
-![Stats de Pablo](https://github-readme-stats.vercel.app/api?username=PabloDesk&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDesk&layout=compact&theme=tokyonight&hide_border=true)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=PabloDesk&theme=tokyonight)
 
 ---
 
