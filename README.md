@@ -1,18 +1,26 @@
 <div align="center">
 
-# ¡Hola! Soy Pablo Fuentes Soto (PabloDesk) 
+# Pablo Fuentes Soto (PabloDesk)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=Visual+Artist+%2B+Developer;3D+Character+Artist;Tech+Artist+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+   <!--<a href="pablodesk1024@gmail.com"> 📧 pablodesk1024@gmail.com</a>
+  &nbsp;·&nbsp; -->
+  <a href="https://pablodesk.github.io/CV_PabloDesk/"> 🌎 PabloDesk Webside </a>
+  &nbsp;  <!--·&nbsp;
+  <a href="https://pablodesk.github.io/CV_PabloDesk/"> 🗽 English Version </a>  -->
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=Visual+Artist+%2B+Developer;3D+Generalist;Full+Stack+Dev+Enthusiast)](https://git.io/typing-svg)
 
 ### 🚀 Sobre mí
 
 Soy un **Animador Digital** con visión artística y comunicacional en plena transición hacia la **Ingeniería en Informática**.  
-Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que generen un impacto real y positivo.
+Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que generen un impacto real y positivo en las personas.
 
 ### 👀 ¿En qué ando ahora?
 
-🔭 Actualmente dando mis primeros pasos en programación y lógica de software en Generation Chile. <br>
-🌱 Estudiando para ser Ingeniero en Informática. <br>
+🔭 Actualmente dando mis primeros pasos en programación y lógica de software. <br>
+🌱 Estudiante de Full Stack Java en [Generation Chile](https://chile.generation.org/) <br>
 💬 **Pregúntame sobre**: **Animación, Modelado 3D y Game Design.** <br>
 ⚡ **Dato curioso**: Creo que el código es otra forma de arte, solo que con una sintaxis más estricta. <br>
 
