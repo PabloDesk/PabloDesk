@@ -56,7 +56,7 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 </div>
 
 <div align="center">
-  <img src="pinguinocompu.gif" width="312">
+  <img src="media/pinguino.gif" width="312">
 </div>
 
 <!--
