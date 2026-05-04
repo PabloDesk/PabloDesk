@@ -50,8 +50,12 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 ---
 
 ### 📫 Conectemos
+[![Gmail](https://img.shields.io/badge/Gmail-84B067?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodesk1024@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloDesk)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablodesk)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pablofsdesk/)
+
+
 
 </div>
 
