@@ -39,7 +39,7 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 <img src="https://skillicons.dev/icons?i=vscode,idea,powershell&theme=dark" /> 
 
 #### 👾 Game Engines & IA 
-<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" /> &nbsp; ![FluxAI](https://img.shields.io/badge/FluxAI-purple?style=for-the-badge&logo=rocket) &nbsp; ![ComfyAI](https://img.shields.io/badge/ComfyAI-blue?style=for-the-badge&logo=probot)
+<img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" /> &nbsp; ![FluxAI](https://img.shields.io/badge/FluxAI-purple?style=for-the-badge&logo=rocket) &nbsp; ![ComfyUI](https://img.shields.io/badge/ComfyUI-blue?style=for-the-badge&logo=probot)
 
 #### 🪄 Modeling, Design and Video Editing
 <img src="https://skillicons.dev/icons?i=blender&theme=dark" /> &nbsp;<img src="media/icons/Maya.png" width="45" height="45" alt="Maya"> &nbsp;<img src="media/icons/zbrush.png" width="45" height="45" alt="Zbrush"> <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" />
