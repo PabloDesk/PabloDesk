@@ -30,7 +30,7 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 
 | 🎨 Front-End | ⚙️ Back-End |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,bootstrap,md&theme=dark" /> | <img src="https://skillicons.dev/icons?i=java,js,cs&theme=dark" />
+| <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=java,js,cs&theme=dark" />
 
 #### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />  ![WSL](https://img.shields.io/badge/WSL-%230078D4.svg?style=for-the-badge&logo=linux&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23273B55.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -41,10 +41,8 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 #### 👾 Game Engines & IA 
 <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" /> ![FluxAI](https://img.shields.io/badge/FluxAI-purple?style=for-the-badge&logo=rocket) ![ComfyAI](https://img.shields.io/badge/ComfyAI-blue?style=for-the-badge&logo=probot)
 
-#### 🪄 Design, Modeling and Video Editing
-<img src="https://skillicons.dev/icons?i=blender,ps,ae,pr,ai&theme=dark" /> 
-
-
+#### 🪄 Modeling, Design and Video Editing
+<img src="https://skillicons.dev/icons?i=blender,ps,ai,pr,ae&theme=dark" /> 
 
   <!--<img src="https://skillicons.dev/icons?i=visualstudio,spring,py,pytorch,maven,mint,aws,debian,linux,discord,dotnet,express,figma,gmail,gitlab,instagram,linkedin,mysql,nextjs,nodejs,notion,postgres,react&theme=dark" /> -->
 
