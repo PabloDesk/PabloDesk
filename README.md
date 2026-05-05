@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,16,20&height=170&section=header&text=PabloDesk&fontSize=60&desc=Pablo%20Fuentes%20Soto&descSize=20&descAlignY=70&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,20&height=200&section=header&text=PabloDesk&fontSize=50&desc=Pablo%20Fuentes%20Soto&descSize=20&descAlignY=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=3D+Generalist;Visual+Artist+%2B+Developer;Full+Stack+Dev+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
    <!--<a href="pablodesk1024@gmail.com"> 📧 pablodesk1024@gmail.com</a>
@@ -9,8 +11,6 @@
   &nbsp;  <!--·&nbsp;
   <a href="https://pablodesk.github.io/CV_PabloDesk/"> 🗽 English Version </a>  -->
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=3D+Generalist;Visual+Artist+%2B+Developer;Full+Stack+Dev+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -65,7 +65,7 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 ---
 
 ### 📫 Conectemos
-[![Gmail](https://img.shields.io/badge/Gmail-84B067?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodesk1024@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-BF2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablodesk1024@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloDesk)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablodesk)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pablofsdesk/)
