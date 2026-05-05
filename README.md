@@ -77,10 +77,10 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 </div>
 
 <div align="center">
-<br><br>****
+<br><br>
 
 <!-- Profile Views Counter con diseño mejorado -->
-<img src="https://komarev.com/ghpvc/?username=pablodesk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=PabloDesk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
