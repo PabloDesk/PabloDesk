@@ -48,10 +48,10 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 #### 🛠️ Tools & IDEs
 <img src="https://skillicons.dev/icons?i=vscode,idea,powershell&theme=dark" /> 
 
-#### 👾 Game Engines & Local IA 
+#### 👾 Game Engines & IA 
 <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" /> &nbsp;<img src="media/icons/comfyui.png" width="45" height="45" alt="ComfyUI">
 
-#### 🪄 Modeling, Design and Video Editing
+#### 🪄 3D Modeling, Design and Video Editing
 <img src="https://skillicons.dev/icons?i=blender&theme=dark" /> &nbsp;<img src="media/icons/Maya.png" width="45" height="45" alt="Maya"> &nbsp;<img src="media/icons/zbrush.png" width="45" height="45" alt="Zbrush"> &nbsp;<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" /> &nbsp;<img src="media/icons/DaVinci_Resolve_Studio.png" width="45" height="45" alt="DaVinci Resolve Studio"> 
 
   <!--<img src="https://skillicons.dev/icons?i=visualstudio,spring,py,pytorch,maven,mint,aws,debian,linux,discord,dotnet,express,gmail,gitlab,instagram,linkedin,mysql,nextjs,nodejs,notion,postgres,react&theme=dark" /> -->
