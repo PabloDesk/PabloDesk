@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,20&height=200&section=header&text=PabloDesk&fontSize=50&desc=Pablo%20Fuentes%20Soto&descSize=20&descAlignY=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=PabloDesk&fontSize=50&desc=Pablo%20Fuentes%20Soto&descSize=20&descAlignY=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7FFFD4&center=true&vCenter=true&width=500&lines=+3D+Generalist;Visual+Artist+%2B+Developer;Full+Stack+Dev+Enthusiast)](https://git.io/typing-svg)
 
