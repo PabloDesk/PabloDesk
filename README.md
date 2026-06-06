@@ -37,16 +37,16 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 ### 🛠️ Stack Profile
 
 #### 🎨 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,figma,react&theme=dark" />
 
 #### ⚙️ Back-End
-<img src="https://skillicons.dev/icons?i=java,js,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs&theme=dark" />
 
 #### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" /> &nbsp;<img src="media/icons/wsl.png" width="45" height="45" alt="Windows Subsystem for Linux"> &nbsp;<img src="media/icons/virtualbox.png" width="45" height="45" alt="VirtualBox">
 
 #### 🛠️ Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,idea,powershell&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=vscode,idea,powershell,pnpm&theme=dark" /> 
 
 #### 👾 Game Engines & IA 
 <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" /> &nbsp;<img src="media/icons/comfyui.png" width="45" height="45" alt="ComfyUI">
@@ -54,7 +54,7 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 #### 🪄 3D Modeling, Design and Video Editing
 <img src="https://skillicons.dev/icons?i=blender&theme=dark" /> &nbsp;<img src="media/icons/Maya.png" width="45" height="45" alt="Maya"> &nbsp;<img src="media/icons/zbrush.png" width="45" height="45" alt="Zbrush"> &nbsp;<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" /> &nbsp;<img src="media/icons/DaVinci_Resolve_Studio.png" width="45" height="45" alt="DaVinci Resolve Studio"> 
 
-  <!--<img src="https://skillicons.dev/icons?i=visualstudio,spring,py,pytorch,maven,mint,aws,debian,linux,discord,dotnet,express,gmail,gitlab,instagram,linkedin,mysql,nextjs,nodejs,notion,postgres,react&theme=dark" /> -->
+  <!--<img src="https://skillicons.dev/icons?i=visualstudio,spring,py,pytorch,maven,mint,aws,debian,linux,discord,dotnet,express,gmail,gitlab,instagram,linkedin,mysql,nextjs,nodejs,notion,postgres,react,tailwind, &theme=dark" /> -->
 
 ---
 
