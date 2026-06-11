@@ -7,7 +7,7 @@
 <p align="center">
    <!--<a href="pablodesk1024@gmail.com"> 📧 pablodesk1024@gmail.com</a>
   &nbsp;·&nbsp; -->
-  <a href="https://pablodesk.github.io/CV_PabloDesk/"> 🌎 PabloDesk Webside 🌎</a>
+  <a href="https://pablodesk.github.io/"> 🌎 PabloDesk Webside 🌎</a>
   &nbsp;  <!--·&nbsp;
   <a href="https://pablodesk.github.io/CV_PabloDesk/"> 🗽 English Version </a>  -->
 </p>
