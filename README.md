@@ -42,6 +42,9 @@ Mi objetivo es alcanzar la excelencia técnica para desarrollar proyectos que ge
 #### ⚙️ Back-End
 <img src="https://skillicons.dev/icons?i=java,spring,cs&theme=dark" />
 
+#### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+
 #### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" /> &nbsp;<img src="media/icons/wsl.png" width="45" height="45" alt="Windows Subsystem for Linux"> &nbsp;<img src="media/icons/virtualbox.png" width="45" height="45" alt="VirtualBox">
 
